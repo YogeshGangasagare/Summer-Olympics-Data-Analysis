@@ -18,4 +18,4 @@ Files
 About me
     I'm Yogesh Gangasagare  An electronics Engineer
 Contact
-    email id : gangasagareyogesh@gnail.com
+    email id : gangasagareyogesh@gmail.com
